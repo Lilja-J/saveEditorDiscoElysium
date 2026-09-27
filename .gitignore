@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações locais do app
+config.json
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Builds / PyInstaller
+build/
+dist/
+*.spec
+
+# Memória e anotações de desenvolvimento (Não publicável)
+.memory.md
+*.memory.md
+SESSION_NOTES.md
+*.local.md
+
