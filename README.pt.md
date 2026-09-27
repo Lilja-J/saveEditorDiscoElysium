@@ -1,6 +1,6 @@
 # Disco Elysium: Save Editor
  
-[🇺🇸 Read in English](README.md)
+[🇺🇸 Read in English](readme.md)
  
 > **Usuários de Windows:** O executável compilado está disponível na [página de Releases](https://github.com/Lilja-J/saveEditorDiscoElysium/releases/latest) ([Download Direto](https://github.com/Lilja-J/saveEditorDiscoElysium/releases/latest/download/DiscoElysiumSaveEditor.exe)), sem necessidade de instalar Python.
  
